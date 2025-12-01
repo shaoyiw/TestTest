@@ -21,7 +21,7 @@ Interactive image segmentation aims to accurately separate target objects from b
 
 ### Preparations
 
-torch 1.8.0, torchvision 0.9.0, CUDA 11.3.
+torch 1.8.0, torchvision 0.9.0, CUDA 11.6.
 
 ```
 pip3 install -r requirements.txt
